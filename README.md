@@ -1,2 +1,2 @@
 # Gradus
-An indie RPG project developed by Glyduh-studios, focused on storytelling and creative world-building.
+An indie RPG project developed by Glyduh-Studios, focused on storytelling and creative world-building.
